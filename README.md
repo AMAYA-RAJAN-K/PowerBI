@@ -1,6 +1,7 @@
 # PowerBI
 Entry Projects 
 Financial dataset-INSIGHTS AND ANALYSIS
+
 1.Top-Selling Products by Revenue
 Paseo leads in gross sales, contributing 14.44% of total revenue, followed by VTT and Velo. These products have a strong market presence and contribute significantly to overall sales.
 
